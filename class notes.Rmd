@@ -1,0 +1,13 @@
+---
+title: "class notes"
+author: "Lizbeth Gomez"
+date: "11/21/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+class slides [here](https://p8105.com/shiny.html)
+
